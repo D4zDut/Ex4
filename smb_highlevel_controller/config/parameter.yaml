@@ -1,0 +1,4 @@
+scan_topic: /scan
+queue_size: 10
+controller_gain: 20
+service: /start_stop
